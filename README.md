@@ -34,7 +34,7 @@ Merge .jpg, .jpeg, and .pdf files into one clean, high-resolution PDF — across
 >  `pip3 install -r requirements.txt`
 
 3. Run the script in your terminal:  
-   `python3 merge_files.py`
+   `python3 /Small-File-Merger/merge_files.py`
 
 4. Follow the on-screen prompts:
 
