@@ -47,9 +47,6 @@ The script will:
 - Clean up the temporary `.temp.pdf` files after merging
 - Save the combined result as a high-resolution PDF in the same folder
 
----
-
-
 ## Troubleshooting
 
 - Ensure you’re using **Python 3.7+**
@@ -68,7 +65,7 @@ Ideas for improvement:
 - Add compression options for smaller output size
 - Add Docker container support
 
-To contribute:
+## To contribute:
 
 1. Fork the repository  
 2. Create a feature branch: `git checkout -b feature-name`  
