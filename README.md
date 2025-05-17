@@ -20,22 +20,23 @@ Merge .jpg, .jpeg, and .pdf files into one clean, high-resolution PDF — across
 - 🪟 Cross-platform support (macOS, Windows, Linux)
 - 📁 Keeps original file structure and order intact
 
-## Requirements
-
->  Python 3.7 or newer is required.  
->  Run:  
->  `pip3 install -r requirements.txt`
 
 ## How to Use
 
 1. Clone this repository or download the `merge_files.py` script.  
    Run:  
    `git clone https://github.com/daniyyell-dev/Small-File-Merger.git`
+   
+2. Requirements
 
-2. Run the script in your terminal:  
+>  Python 3.7 or newer is required.  
+>  Run:  
+>  `pip3 install -r requirements.txt`
+
+3. Run the script in your terminal:  
    `python3 merge_files.py`
 
-3. Follow the on-screen prompts:
+4. Follow the on-screen prompts:
 
 - Enter the **full path** to the folder containing your files.
 - Enter your desired **output PDF filename**.
